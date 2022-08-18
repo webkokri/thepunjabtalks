@@ -80,9 +80,7 @@
         </nav>
     </section>
 </body>
-</html>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="script.js"></script>
 
 
@@ -110,4 +108,7 @@
 	const app = initializeApp(firebaseConfig);
 	const analytics = getAnalytics(app);
   </script>
+
+</html>
+
 
