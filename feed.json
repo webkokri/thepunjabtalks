@@ -1,0 +1,16 @@
+[
+    ["Welcome", "welcome", "img/mango1.jpg", "https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-one/ambience_bar_small_busy_r&b_music.mp3?_=8"],
+    
+    ["Welcome", "welcome", "img/mango1.jpg", "https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-one/ambience_bar_small_busy_r&b_music.mp3?_=8"],
+    
+    ["The Punjab Talks", "entertainment", "http://thepunjabtalks.com/wp-content/uploads/2022/07/tpt-e1658970427554.png?Nq9I..DGOTZdCekaix7UWi1irdM5EM56&size=1200:675", "https://tv.startradio.in/hls/thepunjabtalks.m3u8"],
+    
+    ["GKM Media TV", "news", "http://gkmmedia.com/wp-content/uploads/2022/07/gkm.png", "https://tv.startradio.in/hls/me.m3u8"],
+    
+    
+    
+    ["GKM Media Radio", "internetradio", "http://gkmmedia.com/wp-content/uploads/2022/07/gkm.png", "https://canada.startradio.in:8020/radio.mp3"],
+    ["The Punjab Talks", "internetradio", "http://thepunjabtalks.com/wp-content/uploads/2022/07/tpt-e1658970427554.png", "https://canada.startradio.in:9800/radio.mp3"]
+    
+    ]
+    
